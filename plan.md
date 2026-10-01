@@ -1,0 +1,4 @@
+## FoxCloud Reflex Plan
+- [x] Build a responsive Persian FoxCloud home page with a warm off-white and deep navy palette, teal accents, clean sans-serif typography, concise service overview and honest non-operational proxy status, plus navigation to the configuration tool.
+- [x] Build a working VLESS configuration and subscription tool on /sub: validated UUID, server host, port, TLS/SNI, WebSocket path and name inputs; generate a copyable VLESS URI and Base64 subscription text, with useful errors and clear instructions that an external compatible server is required.
+- [x] Prepare the rewritten Reflex app for Publish with updated usage/deployment guidance, verify both routes render, and communicate the Publish button step without claiming the live proxy is included.
